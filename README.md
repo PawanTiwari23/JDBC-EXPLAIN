@@ -22,6 +22,7 @@
 🔹 Build a strong foundation for advanced frameworks like Hibernate, JPA, or Spring JDBC.
 
 🛠️ Hands-On Learning Outcomes
+
 ✍️ Writing SQL queries directly in Java.
 
 📊 Managing database records with insert, select, update, and delete operations.
