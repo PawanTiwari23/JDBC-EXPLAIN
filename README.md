@@ -16,6 +16,7 @@ JDBC-EXPLAIN/
 │── Mobile.java     # CRUD operations for Mobile table
 ---
 ✨ Features
+
 ✅ Separate programs for different entities (Book, Car, Employee, Mobile)
 
 ✅ Common Connection.java class for database connectivity
