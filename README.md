@@ -10,6 +10,7 @@
 📌 A shared Connection utility is included for database setup and reusability.
 
 🎯 Project Goals
+
 🔹 Serve as a practical learning resource for students, beginners, and developers.
 
 🔹 Help understand how Java applications interact with relational databases through JDBC.
