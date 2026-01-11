@@ -17,6 +17,14 @@ JDBC-EXPLAIN/
 │── Employee.java   # CRUD operations for Employee table
 │── Mobile.java     # CRUD operations for Mobile table
 
+📂 Repository Structure
+File Name	Description
+Book.java	CRUD operations for Book table
+CAR.java	CRUD operations for Car table
+Connection.java	Database connection utility class
+Employee.java	CRUD operations for Employee table
+Mobile.java	CRUD operations for Mobile table
+
 ---
 ✨ Features
 
