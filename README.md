@@ -4,6 +4,7 @@
 Overview
 This repository contains 5 complete JDBC programs in Java, each demonstrating CRUD operations (Create, Read, Update, Delete) for different entities.
 It is designed for students and developers learning how to connect Java applications with relational databases using JDBC.
+---
 
 📂 Repository Structure
 Code
@@ -13,6 +14,7 @@ JDBC-EXPLAIN/
 │── Connection.java # Database connection utility
 │── Employee.java   # CRUD operations for Employee table
 │── Mobile.java     # CRUD operations for Mobile table
+---
 ✨ Features
 ✅ Separate programs for different entities (Book, Car, Employee, Mobile)
 
