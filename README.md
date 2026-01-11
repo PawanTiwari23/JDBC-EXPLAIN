@@ -1,6 +1,6 @@
 
 
-📘 JDBC-EXPLAIN Overview
+📘  Overview
 
 
 📌 This repository provides a comprehensive collection of 5 complete JDBC programs in Java.
